@@ -1,4 +1,4 @@
-package esercize.amazon.square;
+package model.geometric;
 
 import lombok.Data;
 import lombok.EqualsAndHashCode;

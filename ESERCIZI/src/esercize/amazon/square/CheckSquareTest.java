@@ -6,6 +6,7 @@ import org.junit.Before;
 import org.junit.Test;
 
 import core.TestParameters;
+import model.geometric.Point;
 
 /**
  * Check is 4 points given as input, represents the vertex of a square.

@@ -3,6 +3,7 @@ package esercize.amazon.square;
 import core.Input;
 import core.Output;
 import core.TestSimulator;
+import model.geometric.Point;
 
 public class CheckSquareSimulator extends TestSimulator {
 

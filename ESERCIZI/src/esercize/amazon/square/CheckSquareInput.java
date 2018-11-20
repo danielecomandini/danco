@@ -4,6 +4,7 @@ import core.Input;
 import lombok.Data;
 import lombok.EqualsAndHashCode;
 import lombok.ToString;
+import model.geometric.Point;
 
 @Data
 @EqualsAndHashCode( callSuper = false )
