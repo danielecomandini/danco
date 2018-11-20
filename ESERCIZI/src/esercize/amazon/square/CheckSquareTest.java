@@ -8,7 +8,7 @@ import org.junit.Test;
 import core.TestParameters;
 
 /**
- * Given a positive integer n, count the total number of set bits in binary representation of all numbers from 1 to n.
+ * Check is 4 points given as input, represents the vertex of a square.
  */
 public class CheckSquareTest {
 

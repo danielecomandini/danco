@@ -7,6 +7,9 @@ import org.junit.Test;
 
 import core.TestParameters;
 
+/**
+ * Check if rotating the first to chars clowising, or the last two anticlockwising, two strings are equal.
+ */
 public class Rotate2PlaceTest {
 
 	private TestParameters[] testCases;

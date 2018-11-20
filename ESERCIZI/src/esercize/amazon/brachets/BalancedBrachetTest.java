@@ -7,6 +7,11 @@ import org.junit.Test;
 
 import core.TestParameters;
 
+/**
+ * Check if the brachet into an equation are balanced.
+ * [(a+b)*(5/(a+c))] ==> BALANCED
+ * [a+b)] ==> UNBALANCED
+ */
 public class BalancedBrachetTest {
 
 	private TestParameters[] testCases;

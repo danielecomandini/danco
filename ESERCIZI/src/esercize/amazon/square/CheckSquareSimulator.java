@@ -3,7 +3,6 @@ package esercize.amazon.square;
 import core.Input;
 import core.Output;
 import core.TestSimulator;
-import utils.BinaryUtils;
 
 public class CheckSquareSimulator extends TestSimulator {
 
