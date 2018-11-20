@@ -3,7 +3,6 @@ package esercize.amazon.smallerleftnumber;
 import core.Input;
 import core.Output;
 import core.TestSimulator;
-import utils.BinaryUtils;
 
 public class SmallerNearestLeftNumberSimulator extends TestSimulator {
 
@@ -16,8 +15,6 @@ public class SmallerNearestLeftNumberSimulator extends TestSimulator {
 		
 		for( int i=1; i<n.length; i++ ) {
 			for( int j=i-1; j>=0; j-- ) {
-				int check = n[i];
-				int with = n[j];
 				if( n[i] > n[j] ) {
 					result[i] = n[j];
 					break;
