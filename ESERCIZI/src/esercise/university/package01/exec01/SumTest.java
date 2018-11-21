@@ -7,10 +7,9 @@ import org.junit.Test;
 
 import core.TestParameters;
 
-/**
- * Check if the brachet into an equation are balanced.
- * [(a+b)*(5/(a+c))] ==> BALANCED
- * [a+b)] ==> UNBALANCED
+/*
+ * Esercizio no.1 
+ * Calcola la somma degli interi compresi fra a e b (interi) in moto iterativo.    
  */
 public class SumTest {
 
