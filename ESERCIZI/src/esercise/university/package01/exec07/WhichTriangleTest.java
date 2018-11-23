@@ -8,8 +8,11 @@ import org.junit.Test;
 import core.TestParameters;
 
 /*
- * Esercizio no.6
- * Data una serie di numeri interi positivi, individuare il massimo e il minimo.
+ * Esercizio no.7
+ * Scrivere un programma che inseriti tre numeri interi rappresentanti i lati di un triangolo, stabilisca se il triangolo sia:
+ * 	- EQUILATERO - tutti e tre i lati uguali
+ * 	- ISOSCELE - due lati uguali
+ * 	- SCALENO - tutti i lati diversi tra loro 
  */
 public class WhichTriangleTest {
 
