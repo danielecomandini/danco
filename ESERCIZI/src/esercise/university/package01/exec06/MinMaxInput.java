@@ -4,7 +4,6 @@ import core.Input;
 import lombok.Data;
 import lombok.EqualsAndHashCode;
 import lombok.ToString;
-import model.algebra.Interval;
 
 @Data
 @EqualsAndHashCode( callSuper = false )
