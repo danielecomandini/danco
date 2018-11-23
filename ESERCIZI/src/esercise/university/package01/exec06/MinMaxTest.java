@@ -6,7 +6,6 @@ import org.junit.Before;
 import org.junit.Test;
 
 import core.TestParameters;
-import model.algebra.Interval;
 
 /*
  * Esercizio no.6

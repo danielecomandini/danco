@@ -3,7 +3,6 @@ package esercise.university.package01.exec06;
 import core.Input;
 import core.Output;
 import core.TestSimulator;
-import model.algebra.Interval;
 
 public class MinMaxSimulator extends TestSimulator {
 
