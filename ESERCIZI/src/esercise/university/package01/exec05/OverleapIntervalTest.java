@@ -9,8 +9,8 @@ import core.TestParameters;
 import model.algebra.Interval;
 
 /*
- * Esercizio no.4 
- * Calcola i numeri primi compresi tra due numeri interi inseriti dall'utente.
+ * Esercizio no.5
+ * Dire se i due intervalli di numeri double a-b e c-d estremi inclusi, si intersecano, cioè se hanno elementi in comune.
  */
 public class OverleapIntervalTest {
 
