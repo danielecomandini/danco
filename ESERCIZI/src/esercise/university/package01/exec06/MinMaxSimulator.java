@@ -8,7 +8,6 @@ public class MinMaxSimulator extends TestSimulator {
 
 	@Override
 	public Output solve(Input input) {
-		boolean result = false;
 		Integer[] array = ( ( MinMaxInput ) input ).getArray();
 
 		int min = array[0];
